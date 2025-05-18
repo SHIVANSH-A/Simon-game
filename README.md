@@ -1,4 +1,4 @@
-# Simon Game *
+# Simon Game *🎮 
 
 ## Overview
 Simon Game is a simple memory game where the player has to recall and repeat a randomly generated sequence of colors. The sequence increases in length with each level, making the game progressively more challenging.
